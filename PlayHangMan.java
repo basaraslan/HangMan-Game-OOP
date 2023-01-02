@@ -140,8 +140,7 @@ public class PlayHangMan {
 
 	}
 
-     // CMPE 211 TERM PROJECT GROUP NAME: TeamCoding++
-	 // GROUP MEMBERS: AHMET BERAT AKDOÐAN , BAÞAR ASLAN , ECEM ALAKUÞ
+  
 
 }
 
